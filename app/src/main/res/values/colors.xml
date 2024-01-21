@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#d20653</color>
+    <color name="primary_light">#CD98AC</color>
+    <color name="secondary">#FFFFFFFF</color>
+    <color name="background">#1A202C</color>
+    <color name="background2">#B72C2C2C</color>
+    <color name="foreground">#7C2C2C2C</color>
+    <color name="red">#BC0000</color>
+    <color name="date_text">#44215D</color>
+    <color name="count_text">#FDBC01</color>
+    <color name="secondary2">#F45B14</color>
+    <color name="bg_light">#20F45B14</color>
+    <color name="sec_text">#808080</color>
+</resources>
